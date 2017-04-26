@@ -1,0 +1,6 @@
+c:\users\евгений капин\documents\visual studio 2015\Projects\GenericBinaryHeap\GenericBinaryHeap\bin\Debug\GenericBinaryHeap.exe.config
+c:\users\евгений капин\documents\visual studio 2015\Projects\GenericBinaryHeap\GenericBinaryHeap\bin\Debug\GenericBinaryHeap.exe
+c:\users\евгений капин\documents\visual studio 2015\Projects\GenericBinaryHeap\GenericBinaryHeap\bin\Debug\GenericBinaryHeap.pdb
+c:\users\евгений капин\documents\visual studio 2015\Projects\GenericBinaryHeap\GenericBinaryHeap\obj\Debug\GenericBinaryHeap.csprojResolveAssemblyReference.cache
+c:\users\евгений капин\documents\visual studio 2015\Projects\GenericBinaryHeap\GenericBinaryHeap\obj\Debug\GenericBinaryHeap.exe
+c:\users\евгений капин\documents\visual studio 2015\Projects\GenericBinaryHeap\GenericBinaryHeap\obj\Debug\GenericBinaryHeap.pdb
